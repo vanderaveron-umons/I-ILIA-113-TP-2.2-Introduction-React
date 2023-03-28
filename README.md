@@ -9,7 +9,7 @@ Le status du dernier déploiement est : [![Netlify Status](https://api.netlify.c
 
 ## Objectifs réalisés
 
-Les modifications apportées sont les suivantes :
+Les étapes suivantes ont été effectuées :
 - Initialisation d'un projet React
 - Création d'un composant permettant de filtrer une liste
 - Utilisation d'une API pour collecter les données

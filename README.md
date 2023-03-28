@@ -1,4 +1,4 @@
-# TP 2.1 - Introduction à React
+# TP 2.2 - Introduction à React
 
 ## Déploiement
 Le site est déployé sur Netlifly et [est disponible ici](https://kaleidoscopic-rabanadas-2ac13e.netlify.app/)
